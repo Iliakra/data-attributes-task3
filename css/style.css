@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-style: italic;
+}
+
+table {
+    width: 400px;
+    table-layout: auto;
+    border-collapse: separate;
+    margin-left: 50px;
+}
+
+th, td {
+    text-align: left;
+    border: 1px solid grey;
+}
