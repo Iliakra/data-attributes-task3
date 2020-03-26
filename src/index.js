@@ -144,5 +144,3 @@ function nextSort() {
 
 
 setInterval(nextSort, 2000);
-
-// https://cdn.icon-icons.com/icons2/933/PNG/512/switch-vertical-orientation-arrows_icon-icons.com_72530.png //
