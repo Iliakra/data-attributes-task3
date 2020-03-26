@@ -69,7 +69,7 @@ buildingDom();
 const iteration = [];
 const thElement = document.getElementsByTagName('th');
 const strElement = document.createElement('img');
-strElement.src = './image/arrow.png';
+strElement.src = '../image/arrow.png';
 strElement.width = 10;
 
 function nextSort() {
