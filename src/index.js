@@ -69,7 +69,7 @@ buildingDom();
 const iteration = [];
 const thElement = document.getElementsByTagName('th');
 const strElement = document.createElement('img');
-strElement.src = 'https://cdn.icon-icons.com/icons2/933/PNG/512/switch-vertical-orientation-arrows_icon-icons.com_72530.png';
+strElement.src = '../image/arrow.png';
 strElement.width = 10;
 
 function nextSort() {
@@ -144,3 +144,5 @@ function nextSort() {
 
 
 setInterval(nextSort, 2000);
+
+// https://cdn.icon-icons.com/icons2/933/PNG/512/switch-vertical-orientation-arrows_icon-icons.com_72530.png //
