@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/sqw6i983lj008k6y?svg=true)](https://ci.appveyor.com/project/Ilya/goblins-remove)
+[![Build status](https://ci.appveyor.com/api/projects/status/9iowspdxe8vewe5g?svg=true)](https://ci.appveyor.com/project/Ilya/data-attributes-task3)
+ https://iliakra.github.io/data-attributes-task3/
